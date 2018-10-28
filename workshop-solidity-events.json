@@ -1,10 +1,9 @@
 {
-    "title": "Solidity Basic Syntax",
+    "title": "Solidity Events",
     "version": "1.0.0",
     "icon": "/test/icon.svg",
     "chat": "https://gitter.im/ethereum/play",
     "lessons": [{
-      "title": "Solidity Events",
       "lesson": "https://www.youtube.com/watch?v=jXjYu8wNuTA",
       "tool": "https://solidity.readthedocs.io/en/v0.4.24/structure-of-a-contract.html#events",
       "info": "./solidity-types.md"
